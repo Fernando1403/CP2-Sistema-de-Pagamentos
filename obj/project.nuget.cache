@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Aibcgx+qbXRxtw7O/U1mNX0YiajBT0E4c93QAcmHzyCkSvYNMPLyPokWhZz4/cZcirHxNzl8o7gnIAdi1LUmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ferna\\OneDrive\\Área de Trabalho\\SistemaPagamentos\\SistemaPagamentos\\SistemaPagamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\ferna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
