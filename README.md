@@ -28,4 +28,5 @@ SistemaPagamentos/
 - **Robustez:** aceita vírgula e ponto como separador decimal na entrada de valores
 
 ## Prints
--<img width="1471" height="678" alt="image" src="https://github.com/user-attachments/assets/dd67b456-8e49-4ab8-b21a-6203d5b55985" />
+<img width="1471" height="678" alt="image" src="https://github.com/user-attachments/assets/dd67b456-8e49-4ab8-b21a-6203d5b55985" />
+<img width="1464" height="765" alt="image" src="https://github.com/user-attachments/assets/98db6c80-ad49-4486-8a76-bec9d3e3aa07" />
