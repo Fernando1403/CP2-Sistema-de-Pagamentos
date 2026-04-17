@@ -14,11 +14,11 @@ Aplicação console em C# que simula um sistema de pagamentos, permitindo proces
 SistemaPagamentos/
 ├── Program.cs
 ├── Models/
-│   ├── Pagamento.cs         # Classe abstrata base
-│   ├── PagamentoCartao.cs   # Pagamento via cartão
-│   └── PagamentoBoleto.cs   # Pagamento via boleto
+│   ├── Pagamento.cs         
+│   ├── PagamentoCartao.cs   
+│   └── PagamentoBoleto.cs   
 └── UI/
-    └── Menu.cs              # Menu estático do console
+    └── Menu.cs              
 ```
 
 ## ✅ Pontos-chave
