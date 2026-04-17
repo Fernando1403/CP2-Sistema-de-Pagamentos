@@ -26,3 +26,6 @@ SistemaPagamentos/
 - **Encapsulamento:** propriedades tipadas corretamente (`decimal` para valores monetários, `string` para identificadores)
 - **Boas práticas:** classes organizadas em pastas por responsabilidade (`Models/`, `UI/`)
 - **Robustez:** aceita vírgula e ponto como separador decimal na entrada de valores
+
+## Prints
+-<img width="1471" height="678" alt="image" src="https://github.com/user-attachments/assets/dd67b456-8e49-4ab8-b21a-6203d5b55985" />
